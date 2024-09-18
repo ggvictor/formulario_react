@@ -1,8 +1,5 @@
-# React + Vite
+# Projeto de Formulário em React
+**Este é um projeto simples de formulário desenvolvido em React, que permite aos usuários inserir dados em campos como nome, e-mail e mensagem. O formulário conta com validação de entradas e exibe mensagens de erro quando necessário.**
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+[clique aqui](https://ggvictor.github.io/formulario_react/)
+![image](https://github.com/user-attachments/assets/883831ba-2cb2-4086-9892-811afe7dde40)
